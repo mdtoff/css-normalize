@@ -3,7 +3,7 @@ A modern, HTML5-ready alternative to CSS resets. (Forked from Normalize.css, lic
 
 ## Versioning
 
-I use [SemVer](http://semver.org/) for versioning.
+I use [SemVer](https://semver.org/) for versioning.
 
 ## Authors
 
